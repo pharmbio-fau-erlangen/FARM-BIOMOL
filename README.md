@@ -4,7 +4,7 @@
 
 
 ##### Ref: [![DOI](https://zenodo.org/badge/824564797.svg)](https://zenodo.org/doi/10.5281/zenodo.13380002)
-###### *See the webpage: [Click here]([https://thanetpi.github.io/FARM-BIOMOL](https://pharmbio-fau-erlangen.github.io/FARM-BIOMOL/)*
+###### *See the webpage: [Click here](https://pharmbio-fau-erlangen.github.io/FARM-BIOMOL/)*
 
 
 ### About the library
