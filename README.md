@@ -19,7 +19,7 @@ FARM-BIOMOL logo can be found here: [Click](/logo.md)
 ![](/logo/chemlib2.png)
 
 ### Research collaboration
-We are happy to initiate and collaborate on a research project with scientists who share our objective of fighting AMR bacterial infection. Furthermore, we are also open to exciting Pharmaceutical Sciences, Biology, Biotechnology, or chemistry research topics. Therefore, don't hesitate to contact us for further discussion on any potential exciting research collaboration project.
+We are happy to initiate and collaborate on a research project with scientists who share our objective of fighting AMR bacterial infection. Furthermore, we are also open to exciting Pharmaceutical Sciences, Biology, Biotechnology, or chemistry research topics. Therefore, do not hesitate to contact us for further discussion on any potential exciting research collaboration project.
 
 ![](logo/gen-ai-collaboration3.png)
 ### Acknowledgment
