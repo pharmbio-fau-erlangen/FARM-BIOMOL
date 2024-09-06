@@ -13,8 +13,11 @@ This chemical library comprises approximately 150 compounds (primarily natural p
 
 This FARM-BIOMOL chemical library was established in 2022 to support scientific research, especially the anti-AMR bacterial infection study (our primary objective) conducted by students and scientists from the Division of Pharmaceutical Biology.
 
+&nbsp;
+&nbsp;
 
 FARM-BIOMOL logo can be found here: [Click](/logo.md)
+
 
 ![](/logo/chemlib2.png)
 
@@ -34,4 +37,10 @@ Dr. rer. nat. Thanet Pitakbut (Primary responsible person and Admin page): [Emai
 Dr. rer. nat. Jennifer Munkert (Shared responsible person): [Email](mailto:jennifer.munkert@fau.de)
 
 Prof. Dr. Gregor Fuhrman (Head of Division): [Email](mailto:gregor.fuhrmann@fau.de)
+
+&nbsp;
+
+###### FARM-BIOMOL in FAU CRIS - the Current Research Information System can be found here: &nbsp;&nbsp; <a href="https://cris.fau.de/projects/327945662/"> <img src="https://www.tf.fau.de/files/2024/02/Logo_CRIS.png" alt="CRIS Logo" width="32" height="32"> </a>
+
+
 
