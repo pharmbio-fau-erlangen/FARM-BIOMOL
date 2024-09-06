@@ -38,9 +38,9 @@ Dr. rer. nat. Jennifer Munkert (Shared responsible person): [Email](mailto:jenni
 
 Prof. Dr. Gregor Fuhrman (Head of Division): [Email](mailto:gregor.fuhrmann@fau.de)
 
-&nbsp;
+![](logo/line04.png)
 
-###### FARM-BIOMOL in FAU CRIS - the Current Research Information System can be found here: &nbsp;&nbsp; <a href="https://cris.fau.de/projects/327945662/"> <img src="https://www.tf.fau.de/files/2024/02/Logo_CRIS.png" alt="CRIS Logo" width="32" height="32"> </a>
+###### *FARM-BIOMOL in FAU CRIS - the Current Research Information System - can be found here: &nbsp;&nbsp; [Click](https://cris.fau.de/projects/327945662/)*
 
 
 
